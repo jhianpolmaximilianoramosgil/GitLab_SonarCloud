@@ -12,7 +12,8 @@
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	<sonar.organization>ramosgil</sonar.organization>
+        <sonar.organization>ramosgil</sonar.organization>
+        <!--<sonar.qualitygate.wait>false</sonar.qualitygate.wait>-->
         <!--<sonar.qualitygate.wait>false</sonar.qualitygate.wait>-->
     </properties>
     
