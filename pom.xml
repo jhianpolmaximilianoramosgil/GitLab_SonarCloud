@@ -15,6 +15,7 @@
         <sonar.organization>ramosgil</sonar.organization>
         <!--<sonar.qualitygate.wait>false</sonar.qualitygate.wait>-->
         <!--<sonar.qualitygate.wait>false</sonar.qualitygate.wait>-->
+        <!--<sonar.qualitygate.wait>false</sonar.qualitygate.wait>-->
     </properties>
     
     <dependencies>
