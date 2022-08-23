@@ -10,4 +10,4 @@ sonarcloud-check:
   script:
     - mvn verify sonar:sonar -Dsonar.projectKey=ramosgil_GitLab_SonarCloud
   only:
-    - main
+    - GitLab_SonarCloud
