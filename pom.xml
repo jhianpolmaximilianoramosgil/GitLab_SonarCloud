@@ -15,7 +15,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <jakartaee>8.0</jakartaee>
-        <sonar.organization>condorijara</sonar.organization>
+        <sonar.organization>ramosgil</sonar.organization>
     </properties>
     
     <dependencies>
