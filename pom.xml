@@ -17,6 +17,7 @@
         <jakartaee>8.0</jakartaee>
         <sonar.organization>jhianpolmaximilianoramosgil</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.organization>condorijara</sonar.organization>
     </properties>
     
     <dependencies>
